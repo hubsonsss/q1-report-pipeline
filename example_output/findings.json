@@ -1,0 +1,19 @@
+{
+  "key_figures": {
+    "total_installations": 55,
+    "total_capacity_installed": 516.4,
+    "march_capacity_kwp": 231.8,
+    "net_revenue": 981000,
+    "gross_margin": 31.2,
+    "customer_satisfaction_rating": 4.7,
+    "days_sales_outstanding": 24,
+    "headcount": 19,
+    "q2_revenue_forecast": 1350000,
+    "north_market_share_pct": 12
+  },
+  "findings": [
+    "Record Performance: March was a record month with 231.8 kWp installed.",
+    "Growth in Commercial Segment: The commercial segment remains strong, countering slower residential demand due to regulatory uncertainty.",
+    "Supply chain: inverter lead times and optimizer failures are a risk."
+  ]
+}
